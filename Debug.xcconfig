@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  ActiveCompilation
+//
+//  Created by sreekanth reddy iragam reddy on 8/9/20.
+//  Copyright © 2020 com.test.Sample. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG
